@@ -10,7 +10,7 @@ body {
   background-image: url("./assets/forecastw.avif");
   background-size: cover;
   background-position: bottom;
-  transition: 0.4 ease-out;
+  transition: 1s ease-in-out;
 }
 .app.warm {
   background-image: url(./assets/unsplweath.avif);
